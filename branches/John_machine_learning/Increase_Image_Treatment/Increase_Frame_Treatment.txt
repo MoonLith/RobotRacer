@@ -1,0 +1,6 @@
+Améliorer la vitesse de traitement d'image :
+
+python setup.py build_ext --inplace -DMS_WIN64
+0.0155949 Cython| resize 0.002991
+0.0156221
+0.0156207 MAIN
